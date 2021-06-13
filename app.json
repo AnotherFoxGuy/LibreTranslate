@@ -1,0 +1,6 @@
+{
+  "name": "LibreTranslate",
+  "description": "Free and Open Source Machine Translation API",
+  "image": "heroku/python",
+  "repository": "https://github.com/AnotherFoxGuy/LibreTranslate"
+}
